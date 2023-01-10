@@ -1,1 +1,1 @@
-# tailwindcss-vazifa
+# tailwindcss-vazifa va o'rnatish
